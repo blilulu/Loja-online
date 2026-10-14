@@ -11,6 +11,8 @@
 
    }
 
+       // Aplicar desconto fidelidade
+       // Antes de retornar o valor final
        
    return total
 }
