@@ -3,7 +3,7 @@
 
  function calcularTotal(itens) {
 
-   let total = 0
+   let total = 1
 
    for (let i = 0; i < itens.length; i++) {
 
@@ -13,6 +13,6 @@
 
        // Aplicar desconto fidelidade
        // Antes de retornar o valor final
-       
+
    return total
 }
