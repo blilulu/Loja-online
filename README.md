@@ -1,5 +1,5 @@
-# Loja Online Campanha de black friday
+# Loja Online - Campanha de Natal
 
 ## Contato
 Duvidas: Contato@loja.com.br
-contato cel: 2140028922
+Contato cel: 2140028922
