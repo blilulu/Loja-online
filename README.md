@@ -1,4 +1,4 @@
-# Loja Online - Campanha de Natal
+# Loja Online - Campanha de Ano novo
 
 ## Contato
 Duvidas: Contato@loja.com.br
