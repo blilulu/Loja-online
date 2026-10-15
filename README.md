@@ -1,5 +1,5 @@
-# Loja Online
+# Loja Online - Titulo para campanha de frete
 
 ## Contato
-Duvidas: contato@loja.com.br
-contato cel: 2140028922
+Duvidas: Contato@loja.com.br
+Contato cel: 2140028922
